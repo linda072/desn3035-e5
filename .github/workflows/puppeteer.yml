@@ -2,7 +2,7 @@ name: Puppeteer and Lighthouse
 on:
   workflow_dispatch:
 jobs:
-  build:
+  run-script:
     runs-on: ubuntu-latest
 
     steps:
